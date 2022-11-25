@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="197.21338mm"
+   height="7.7293625mm"
+   viewBox="0 0 197.21338 7.7293625"
+   version="1.1"
+   id="svg2955"
+   sodipodi:docname="text.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2957"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8541043"
+     inkscape:cx="366.21457"
+     inkscape:cy="14.562288"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2952" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.6448957,-102.31722)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'Space Age';-inkscape-font-specification:'Space Age, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff9600;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-miterlimit:1"
+       x="7.084836"
+       y="110.34238"
+       id="text3856"
+       inkscape:export-filename="text.svg"
+       inkscape:export-xdpi="56.07"
+       inkscape:export-ydpi="56.07"><tspan
+         sodipodi:role="line"
+         id="tspan3854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'Space Age';-inkscape-font-specification:'Space Age, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff9600;fill-opacity:1;stroke-width:0.264583"
+         x="7.084836"
+         y="110.34238">Programming Pirate</tspan></text>
+  </g>
+</svg>
